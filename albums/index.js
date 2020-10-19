@@ -1,3 +1,4 @@
+/* eslint-disable react-native/no-inline-styles */
 // Import a library to help create a component
 import React from 'react';
 import {AppRegistry, View} from 'react-native';
